@@ -4,5 +4,6 @@
 
 Welcome to my profile! I'm a software developer with experience in web development especially using technologies such as JavaScript, Typescript, React, Node.js, RabbitMQ, and MySQL.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=santanasara&theme=violet-punch)](https://git.io/streak-stats)
 
 
