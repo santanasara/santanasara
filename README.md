@@ -41,9 +41,8 @@ Currently pursuing a **Master’s Degree in Artificial Intelligence**, where I�
 
 ## 📫 Let’s Connect
 
-
-- 💼 [![Linkedin Badge](https://img.shields.io/badge/-santanasara-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santanasara/)](https://www.linkedin.com/in/santanasara/)
-- 🧠 [![Medium Badge](https://img.shields.io/badge/-@sarabmds-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sarabmds)](https://medium.com/@sarabmds)
+- 💼 [LinkedIn](https://www.linkedin.com/in/santanasara/)
+- 🧠 [Medium](https://medium.com/@sarabmds)
 
 Thanks for stopping by. Feel free to drop a message!
 
