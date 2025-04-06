@@ -1,7 +1,7 @@
 
 # 👋 Hi there! I'm Sara
 
-🎓 **Senior Full-Stack Software Engineer** | 🧠 **AI Master's Student** | 🚀 **Problem Solver & Builder**
+🎓 **Senior Software Engineer** | 🧠 **AI Master's Student** | 🚀 **Problem Solver & Builder**
 
 Welcome to my digital workspace! I'm a passionate software engineer with years of experience crafting scalable, user-centric applications from end to end — and currently diving deep into the fascinating world of Artificial Intelligence.
 
